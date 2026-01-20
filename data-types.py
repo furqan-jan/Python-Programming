@@ -1,9 +1,0 @@
-a="hello"
-b=10
-c=True
-d=None
-print(a,b,c,d)
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
